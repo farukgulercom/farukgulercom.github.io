@@ -1,3 +1,3 @@
-[submodule "assets/img"]
-	path = assets/img
-	url = https://github.com/theguler0x/theguler0x.github.io/blob/main/assets/img/favicons/favicon.ico
+ # [submodule "assets/lib"]
+ #	path = assets/lib
+ #	url = https://github.com/cotes2020/chirpy-static-assets.git
