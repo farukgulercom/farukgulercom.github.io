@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Osi Referans Modeli Nedir?
+title: Osi Referans Modeli Nedir
 date: 2021-04-22 17:36
 author: theguler
 comments: true
