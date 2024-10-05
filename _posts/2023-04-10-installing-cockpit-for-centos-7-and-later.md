@@ -55,7 +55,7 @@ sudo firewall-cmd --reload</strong></pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:paragraph -->
-<p>Tarayıcınızda <a href="http://sunucu_IP_adresi:9090 "><strong>http://sunucu_IP_adresi:9090 </strong></a>adresine gidin ve Cockpit arayüzüne erişim yapabilirsiniz.</p>
+<p>Tarayıcınızda <a href="https://sunucu_IP_adresi:9090 "><strong>https://sunucu_IP_adresi:9090 </strong></a>adresine gidin ve Cockpit arayüzüne erişim yapabilirsiniz.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

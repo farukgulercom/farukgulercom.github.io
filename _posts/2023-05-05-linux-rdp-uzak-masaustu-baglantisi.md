@@ -31,7 +31,7 @@ categories: [Linux / Unix]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://www.xrdp.org">http://www.xrdp.org</a></p>
+<p><a href="https://www.xrdp.org">https://www.xrdp.org</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
