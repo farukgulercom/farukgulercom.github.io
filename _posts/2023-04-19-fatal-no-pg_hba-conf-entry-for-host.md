@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FATAL: no pg_hba.conf entry for host "", user "postgres", database "postgres", no encryption
+title: FATAL no pg_hba.conf entry for host "", user "postgres", database "postgres", no encryption
 date: 2023-04-19 20:45
 author: theguler
 comments: true

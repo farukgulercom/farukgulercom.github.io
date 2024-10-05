@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux" İşletim Sistemlerine Uzak Masaüstü Bağlantısı
+title: Linux Uzak Masaüstü Bağlantısı
 date: 2023-05-05 23:11
 author: theguler
 comments: true
