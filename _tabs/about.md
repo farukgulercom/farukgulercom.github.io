@@ -26,7 +26,7 @@ En son güncellemeleri almak için beni takip edebilirsiniz. Herhangi bir konuyl
 
 Son olarak; **kaynak göstermenin bilim ve sanat etiğinin bir gereği olduğunu** bilmenizi istiyorum. Hangi biçimde olursa olsun bilgi ileten kişi, bilginin kaynağını gösterme sorumluluğunu taşır. Bloğumda paylaşılan çoğu konunun kaynağı temel araştırmalarım ve kendi deneyimlerimden oluşmaktadır. “Mutlak doğruluk içermez.” Bu sebeple, @links kısmında yararlandığım kaynakları açıkça belirtmeyi borç bilirim. 
 
-Paylaşımlar tamamen açıktır ve alıntı yapılmasında; **“kaynak gösterildiği sürece”** hiçbir sakınca yoktur.
+Paylaşımlar tamamen açıktır ve alıntı yapılmasında; **“kaynak gösterilDİĞİ sürece”** hiçbir sakınca yoktur.
 
 Saygılarımla,  
 ©2013 – 2024
