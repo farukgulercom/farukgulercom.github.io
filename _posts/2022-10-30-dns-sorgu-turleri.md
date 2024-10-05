@@ -4,7 +4,7 @@ title: DNS and DNS Query Types
 date: 2022-10-30 00:03
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"id":5224,"width":532,"height":265,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/dns-nedir.jpeg?w=800" alt="" class="wp-image-5224" width="532" height="265" /></figure>

@@ -4,7 +4,7 @@ title: Netstat Kullanımı - Using Netstat Linux &amp; WinOS
 date: 2023-03-12 00:20
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"id":6028,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2023/03/netstat.png?w=735" alt="" class="wp-image-6028" /></figure>

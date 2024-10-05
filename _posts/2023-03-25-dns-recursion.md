@@ -4,7 +4,7 @@ title: DNS Recursion Nedir-Nasıl Kapatılır?
 date: 2023-03-25 21:01
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"id":5331,"width":"470px","height":"264px","sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/11/dns-reg.jpg?w=1024" alt="" class="wp-image-5331" style="width:470px;height:264px" /></figure>

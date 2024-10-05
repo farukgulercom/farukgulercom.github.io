@@ -4,7 +4,7 @@ title: PowerShell (Execution Policy) Nedir?
 date: 2023-11-05 21:23
 author: theguler
 comments: true
-categories: [General, Windows Server]
+categories: [Common, Windows Server]
 ---
 <!-- wp:image {"id":4474,"width":"265px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/09/slim_powershell.jpg?w=600" alt="" class="wp-image-4474" style="width:265px;height:auto" /></figure>

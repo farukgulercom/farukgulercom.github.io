@@ -4,7 +4,7 @@ title: Disk temizleme aracı Windows güncelleme temizleme işlemi neden bu kada
 date: 2023-10-28 22:11
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"id":9057,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2023/10/clean-1.png?w=495" alt="" class="wp-image-9057" /></figure>

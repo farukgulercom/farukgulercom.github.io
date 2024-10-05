@@ -4,7 +4,7 @@ title: EFS (Şifreleme Dosya Sistemi) Nedir?
 date: 2022-11-15 20:15
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"id":5504,"width":629,"height":314,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/11/encrypting-file-system.png?w=1024" alt="" class="wp-image-5504" width="629" height="314" /></figure>

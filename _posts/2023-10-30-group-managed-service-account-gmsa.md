@@ -4,7 +4,7 @@ title: Group Managed Service Account (GMSA) Hakkında
 date: 2023-10-30 23:52
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"id":9171,"width":"239px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2023/10/group-managed-service-accounts.png?w=536" alt="" class="wp-image-9171" style="width:239px;height:auto" /></figure>

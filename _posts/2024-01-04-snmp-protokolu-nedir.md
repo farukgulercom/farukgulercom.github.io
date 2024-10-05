@@ -4,7 +4,7 @@ title: SNMP Protokolü Nedir?
 date: 2024-01-04 21:14
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"lightbox":{"enabled":true},"id":10508,"width":"378px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2024/01/snmp.jpeg?w=568" alt="" class="wp-image-10508" style="width:378px;height:auto" /></figure>
