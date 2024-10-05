@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Standard Partitions: Install, Configure, Manage Part-1
+title: Standard Partitions Install, Configure, Manage Part-1
 date: 2024-06-04 23:52
 author: theguler
 comments: true
