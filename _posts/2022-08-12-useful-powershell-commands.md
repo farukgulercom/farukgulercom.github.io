@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Constantly updated contents: Useful Powershell commands
+title: Useful Powershell commands
 date: 2022-08-12 19:08
 author: theguler
 comments: true
