@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SSL Sertifikasının Group Policy (GPO) İle Konfigürasyonu Distribution of SSL Certificate with Group Policy (GPO)
+title: Distribution of SSL Certificate with Group Policy (GPO)
 date: 2022-06-13 09:39
 author: theguler
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Fix Error 1053: The service did not respond to the start or control request in a timely fashion
+title: The service did not respond to the start or control request in a timely fashion
 date: 2022-10-11 21:25
 author: theguler
 comments: true
