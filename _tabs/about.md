@@ -10,7 +10,7 @@ order: 4
 ## Blog Hakkında
 
 Bloğumda şu ana kadar **400’den fazla özgün makale** yayınladım. Bu makaleler ağırlıklı olarak aşağıdaki konuları kapsar:
-- Windows / Linux
+- Linux / Windows
 - Storage
 - DBMS
 - Networking
@@ -20,7 +20,7 @@ Bloğumda şu ana kadar **400’den fazla özgün makale** yayınladım. Bu maka
 
 ## İletişim
 
-En son güncellemeleri almak için beni WordPress’te takip edebilirsiniz. Herhangi bir konuyla ilgili daha fazla yardıma ihtiyacınız olursa, aşağıdaki adreslerden benimle iletişime geçmekten çekinmeyin.
+En son güncellemeleri almak için beni takip edebilirsiniz. Herhangi bir konuyla ilgili daha fazla yardıma ihtiyacınız olursa, aşağıdaki adreslerden benimle iletişime geçmekten çekinmeyin.
 
 ## Kaynak Gösterme Etiği
 
