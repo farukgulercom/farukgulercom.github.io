@@ -4,7 +4,7 @@ title: VNC Virtual Network Computing
 date: 2022-08-15 13:52
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"id":4059,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/08/wnc.jpg?w=640" alt="" class="wp-image-4059" /></figure>

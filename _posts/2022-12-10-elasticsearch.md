@@ -4,7 +4,7 @@ title: ElasticSearch Nedir?
 date: 2022-12-10 16:26
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"id":5666,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/12/elasticsearch.png?w=700" alt="" class="wp-image-5666" /></figure>

@@ -4,7 +4,7 @@ title: Detecting Operating Systems Using the Ping Command [TTL]
 date: 2022-08-11 22:02
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"id":2148,"width":449,"height":252,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/02/powershell-as-admin.webp?w=1024" alt="" class="wp-image-2148" width="449" height="252" /></figure>

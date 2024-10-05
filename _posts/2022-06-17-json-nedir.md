@@ -4,7 +4,7 @@ title: JSON Nedir?
 date: 2022-06-17 18:06
 author: theguler
 comments: true
-categories: [General]
+categories: [Common]
 ---
 <!-- wp:image {"id":3500,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/06/json.jpg?w=550" alt="" class="wp-image-3500" /></figure>
