@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redis Nedir ? - Redis Hakkında Özet:
+title: Redis Nedir ? - Redis Hakkında
 date: 2022-09-09 01:18
 author: theguler
 comments: true
