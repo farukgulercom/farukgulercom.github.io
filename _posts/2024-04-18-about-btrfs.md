@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About BTRFS:
+title: About BTRFS
 date: 2024-04-18 16:41
 author: theguler
 comments: true

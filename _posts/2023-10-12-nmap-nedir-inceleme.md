@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NMAP NEDIR? INCELEME: - WHAT IS NMAP? EXAMINATION:
+title: NMAP NEDIR? - WHAT IS NMAP? EXAMINATION:
 date: 2023-10-12 12:47
 author: theguler
 comments: true

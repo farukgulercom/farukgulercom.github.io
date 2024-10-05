@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Active Directory Tiering Model Nedir? Örnek Yapı:
+title: Active Directory Tiering Model Nedir? Örnek Yapı
 date: 2024-04-22 22:26
 author: theguler
 comments: true

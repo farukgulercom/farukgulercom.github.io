@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows Yönetim Araçları (WMI) Sorgular: (user,caption,Manufacturer, etc.)
+title: Windows Yönetim Araçları (WMI) Sorgular (user,caption,Manufacturer, etc.)
 date: 2023-06-26 15:13
 author: theguler
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sconfig" Kullanımı
+title: Sconfig Kullanımı
 date: 2023-08-03 21:22
 author: theguler
 comments: true
