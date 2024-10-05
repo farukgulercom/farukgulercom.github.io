@@ -10,7 +10,7 @@ order: 4
 ## Blog Hakkında
 
 Bloğumda şu ana kadar **400’den fazla özgün makale** yayınladım. Bu makaleler ağırlıklı olarak aşağıdaki konuları kapsar:
-- Linux / Windows
+- Windows / Linux
 - Storage
 - DBMS
 - Networking
