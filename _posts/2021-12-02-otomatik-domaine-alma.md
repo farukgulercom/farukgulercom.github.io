@@ -2,7 +2,7 @@
 layout: post
 title: Otomatik domaine alma Powershell Script
 date: 2021-12-02 16:48
-author: theguler
+By: theguler
 comments: true
 categories: [PowerShell]
 ---
