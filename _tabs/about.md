@@ -9,7 +9,7 @@ order: 4
 
 ## Blog Hakkında
 
-Bloğumda şu ana kadar **400’den fazla özgün makale** yayınladım. Bu makaleler ağırlıklı olarak aşağıdaki konuları kapsar:
+Bloğumda şu ana kadar **400’den fazla özgün makale** yayınladım. Bu makaleler ağırlıklı olarak aşağıdaki konuları kapsamaktadır:
 - Linux /Windows
 - Storage
 - DBMS
@@ -21,6 +21,21 @@ Bloğumda şu ana kadar **400’den fazla özgün makale** yayınladım. Bu maka
 ## İletişim
 
 En son güncellemeleri almak için beni takip edebilirsiniz. Herhangi bir konuyla ilgili daha fazla yardıma ihtiyacınız olursa, aşağıdaki adreslerden benimle iletişime geçmekten çekinmeyin.
+
+Faruk GÜLER
+IT Server and Virtualization Management
+| System | Network | Cloud | Virtualization | Security |
+
+- Github: github.com/theguler0x
+- Docker-Hub: https://hub.docker.com/u/theguler0x
+- Blog: www.farukguler.com
+- LinkedIn: linkedin.com/in/farukgulerfdn
+- E-Mail: fguler962 @gmail .com
+- X:
+- Telegram:
+- WhatsApp:
+- Exploit-DB:
+- Zone-H:
 
 ## Kaynak Gösterme Etiği
 
