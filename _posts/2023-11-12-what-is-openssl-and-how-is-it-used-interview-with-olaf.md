@@ -150,7 +150,7 @@ sudo yum install openssl</strong></pre>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a rel="noreferrer noopener" href="http://slproweb.com/products/Win32OpenSSL.html" target="_blank">http://slproweb.com/products/Win32OpenSSL.html</a></li>
+<li><a rel="noreferrer noopener" href="https://slproweb.com/products/Win32OpenSSL.html" target="_blank">https://slproweb.com/products/Win32OpenSSL.html</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
