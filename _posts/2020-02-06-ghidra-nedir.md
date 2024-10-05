@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Ghidra] NSA'nın Tersine Mühendislik Araç Seti
+title: Ghidra NSA'nın Tersine Mühendislik Araç Seti
 date: 2020-02-06 22:45
 author: theguler
 comments: true
