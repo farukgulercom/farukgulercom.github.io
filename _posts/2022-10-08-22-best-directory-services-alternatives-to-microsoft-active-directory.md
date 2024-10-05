@@ -7,7 +7,7 @@ comments: true
 categories: [General]
 ---
 <!-- wp:image {"id":5021,"width":520,"height":272,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/active-directory-alternativ.jpg?w=800" alt="" class="wp-image-5021" style="width:520px;height:272px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/active-directory-alternativ.jpg?w=800" alt="" class="wp-image-5021" style="width:520px;height:272px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -23,7 +23,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Table of Contents:</strong><a href="https:://thegeekpage.com/22-best-alternatives-to-microsoft-active-directory/#"></a></p>
+<p><strong>Table of Contents:</strong><a href="https://thegeekpage.com/22-best-alternatives-to-microsoft-active-directory/#"></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -109,7 +109,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5040,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/zentyal-logo.png?w=1024" alt="" class="wp-image-5040" /></figure>
+<figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/zentyal-logo.png?w=1024" alt="" class="wp-image-5040" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -121,7 +121,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5042,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/389.png?w=1024" alt="" class="wp-image-5042" /></figure>
+<figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/389.png?w=1024" alt="" class="wp-image-5042" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -133,11 +133,11 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https:://www.redhat.com/en/technologies/cloud-computing/directory-server" target="_blank"><strong>Red Hat Directory Servers</strong></a></p>
+<p><a rel="noreferrer noopener" href="https://www.redhat.com/en/technologies/cloud-computing/directory-server" target="_blank"><strong>Red Hat Directory Servers</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5046,"width":376,"height":312,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/redhat_services.png?w=500" alt="" class="wp-image-5046" style="width:376px;height:312px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/redhat_services.png?w=500" alt="" class="wp-image-5046" style="width:376px;height:312px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -153,7 +153,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5018,"width":365,"height":292,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/label.png?w=334" alt="" class="wp-image-5018" style="width:365px;height:292px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/label.png?w=334" alt="" class="wp-image-5018" style="width:365px;height:292px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -169,7 +169,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5024,"width":437,"height":270,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/open_ldap.png?w=325" alt="" class="wp-image-5024" style="width:437px;height:270px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/open_ldap.png?w=325" alt="" class="wp-image-5024" style="width:437px;height:270px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -181,11 +181,11 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https:://www.univention.com/products/ucs/" target="_blank"><strong>Univention Corporation Server (UCS)</strong></a></p>
+<p><a rel="noreferrer noopener" href="https://www.univention.com/products/ucs/" target="_blank"><strong>Univention Corporation Server (UCS)</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5026,"width":655,"height":243,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/ucs_5.png?w=1024" alt="" class="wp-image-5026" style="width:655px;height:243px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/ucs_5.png?w=1024" alt="" class="wp-image-5026" style="width:655px;height:243px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -201,7 +201,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5028,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/lepide.png?w=1024" alt="" class="wp-image-5028" /></figure>
+<figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/lepide.png?w=1024" alt="" class="wp-image-5028" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -217,7 +217,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5030,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/jxplorer.jpg?w=596" alt="" class="wp-image-5030" /></figure>
+<figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/jxplorer.jpg?w=596" alt="" class="wp-image-5030" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -233,7 +233,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5032,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/ipa_free.jpg?w=600" alt="" class="wp-image-5032" /></figure>
+<figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/ipa_free.jpg?w=600" alt="" class="wp-image-5032" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -245,11 +245,11 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https:://www.samba.org/" target="_blank"><strong>Samba</strong></a></p>
+<p><a rel="noreferrer noopener" href="https://www.samba.org/" target="_blank"><strong>Samba</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5034,"width":489,"height":366,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/kisspng-samba-linux-computer-servers-file-server-computer-5b7598e7954a41.1760813315344335116115.png?w=770" alt="" class="wp-image-5034" style="width:489px;height:366px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/kisspng-samba-linux-computer-servers-file-server-computer-5b7598e7954a41.1760813315344335116115.png?w=770" alt="" class="wp-image-5034" style="width:489px;height:366px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -265,7 +265,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5036,"width":464,"height":365,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/gosa_2.png?w=605" alt="" class="wp-image-5036" style="width:464px;height:365px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/gosa_2.png?w=605" alt="" class="wp-image-5036" style="width:464px;height:365px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -277,11 +277,11 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https:://www.novell.com/developer/develop_to_edirectory.html" target="_blank"><strong>eDirectory</strong></a></p>
+<p><a rel="noreferrer noopener" href="https://www.novell.com/developer/develop_to_edirectory.html" target="_blank"><strong>eDirectory</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5038,"width":565,"height":297,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/edirectory.webp?w=600" alt="" class="wp-image-5038" style="width:565px;height:297px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/edirectory.webp?w=600" alt="" class="wp-image-5038" style="width:565px;height:297px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -297,7 +297,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5048,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/openam.png?w=1024" alt="" class="wp-image-5048" /></figure>
+<figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/openam.png?w=1024" alt="" class="wp-image-5048" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -309,7 +309,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5052,"width":536,"height":357,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/koozali-sme-server.webp?w=750" alt="" class="wp-image-5052" style="width:536px;height:357px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/koozali-sme-server.webp?w=750" alt="" class="wp-image-5052" style="width:536px;height:357px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -325,7 +325,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5054,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/resera.jpg?w=503" alt="" class="wp-image-5054" /></figure>
+<figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/resera.jpg?w=503" alt="" class="wp-image-5054" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -337,11 +337,11 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https:://docs.oracle.com/cd/E19316-01/820-2757/fxjbo/index.html" target="_blank"><strong>Sun Java System Directory Server</strong></a></p>
+<p><a rel="noreferrer noopener" href="https://docs.oracle.com/cd/E19316-01/820-2757/fxjbo/index.html" target="_blank"><strong>Sun Java System Directory Server</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5056,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/sun-java.jpg?w=500" alt="" class="wp-image-5056" /></figure>
+<figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/sun-java.jpg?w=500" alt="" class="wp-image-5056" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -357,7 +357,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5058,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/ibm.jpg?w=500" alt="" class="wp-image-5058" /></figure>
+<figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/ibm.jpg?w=500" alt="" class="wp-image-5058" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -369,11 +369,11 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https:://msdn.microsoft.com/en-us/library/aa480420.aspx" target="_blank"><strong>Windows NT Directory Services</strong></a></p>
+<p><a rel="noreferrer noopener" href="https://msdn.microsoft.com/en-us/library/aa480420.aspx" target="_blank"><strong>Windows NT Directory Services</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5061,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/ms-nt.png?w=572" alt="" class="wp-image-5061" /></figure>
+<figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/ms-nt.png?w=572" alt="" class="wp-image-5061" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -389,7 +389,7 @@ categories: [General]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5064,"width":372,"height":381,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https:://theguler.wordpress.com/wp-content/uploads/2022/10/domino.jpeg?w=474" alt="" class="wp-image-5064" style="width:372px;height:381px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/10/domino.jpeg?w=474" alt="" class="wp-image-5064" style="width:372px;height:381px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
