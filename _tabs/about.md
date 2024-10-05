@@ -23,8 +23,7 @@ Bloğumda şu ana kadar **400’den fazla özgün makale** yayınladım. Bu maka
 En son güncellemeleri almak için beni takip edebilirsiniz. Herhangi bir konuyla ilgili daha fazla yardıma ihtiyacınız olursa, aşağıdaki adreslerden benimle iletişime geçmekten çekinmeyin.
 
 Faruk GÜLER
-IT Server and Virtualization Management
-| System | Network | Cloud | Virtualization | Security |
+| System | Network | Cloud | Virtualization | Security | Knowledge Base for System Administrators and Decentralization Maximalists
 
 - Github: github.com/theguler0x
 - Docker-Hub: https://hub.docker.com/u/theguler0x
