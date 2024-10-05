@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Domain Affiliation Check PowerShell
+title: AD Domain Affiliation Check PowerShell
 date: 2024-10-01 19:28
 author: theguler
 comments: true
