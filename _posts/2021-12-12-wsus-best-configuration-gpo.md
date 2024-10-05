@@ -38,7 +38,7 @@ http://*.windowsupdate.com
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1) Configure Automatic Updates Enabled<br>2) Always automatically restart at the scheduled time Enabled<br>3) Specify intranet Microsoft update service <strong>"location"</strong> Enabled  <a href="https://wsus.guler.com:8530">https://wsus.guler.com:8530</a><br>4) Automatic Updates detection frequency Enabled<br>5) Allow non-administrators to receive update notifications Enabled</p>
+<p>1) Configure Automatic Updates Enabled<br>2) Always automatically restart at the scheduled time Enabled<br>3) Specify intranet Microsoft update service <strong>"location"</strong> Enabled  <a href="https:// wsus.guler. com:8530">https://wsus.guler.com:8530</a><br>4) Automatic Updates detection frequency Enabled<br>5) Allow non-administrators to receive update notifications Enabled</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
