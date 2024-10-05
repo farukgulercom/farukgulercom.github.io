@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [LVM] Logical Volume Management: Install, Configure, Manage Part-2
+title: [LVM] Logical Volume Management Install, Configure, Manage Part-2
 date: 2024-07-17 14:33
 author: theguler
 comments: true
