@@ -29,7 +29,7 @@ IT Server and Virtualization Management
 - Github: github.com/theguler0x
 - Docker-Hub: https://hub.docker.com/u/theguler0x
 - Blog: www.farukguler.com
-- LinkedIn: linkedin.com/in/farukgulerfdn
+- LinkedIn: https://linkedin.com/in/farukgulerfdn
 - E-Mail: fguler962 @gmail .com
 - X:
 - Telegram:
