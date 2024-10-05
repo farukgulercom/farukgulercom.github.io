@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wordpress Content Injection Exploit ver: 4.7.0
+title: Wordpress Content Injection Exploit ver. 4.7.0
 date: 2022-02-16 15:47
 author: theguler
 comments: true
