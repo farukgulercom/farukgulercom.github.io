@@ -93,7 +93,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate</pre>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Clientlerdeki browser(chrome,firefox vs) üzerinden <a href="https:// wsus.guler.local/iuident.cab" target="_blank" rel="noreferrer noopener">https://wsus.guler.local/iuident.cab</a>  adresine girerseniz .cab dosyasını indirebiliyor olmanız gerekmektedir. eğer indiremiyorsanız ağınızdaki güvenlik cihazının port ayarlarını yada GPO üzerindeki ayarları vs. kontrol ediniz.</p>
+<p>Clientlerdeki browser(chrome,firefox vs) üzerinden <a href="https:// wsus. guler. local/iuident. cab" target="_blank" rel="noreferrer noopener">https://wsus. guler. local/iuident. cab</a>  adresine girerseniz .cab dosyasını indirebiliyor olmanız gerekmektedir. eğer indiremiyorsanız ağınızdaki güvenlik cihazının port ayarlarını yada GPO üzerindeki ayarları vs. kontrol ediniz.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
