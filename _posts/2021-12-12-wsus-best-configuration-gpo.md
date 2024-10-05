@@ -38,7 +38,7 @@ http://*.windowsupdate.com
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1) Configure Automatic Updates Enabled<br>2) Always automatically restart at the scheduled time Enabled<br>3) Specify intranet Microsoft update service <strong>"location"</strong> Enabled  <a href="https://wsus.guler.local:8530">https://wsus.guler.local:8530</a><br>4) Automatic Updates detection frequency Enabled<br>5) Allow non-administrators to receive update notifications Enabled</p>
+<p>1) Configure Automatic Updates Enabled<br>2) Always automatically restart at the scheduled time Enabled<br>3) Specify intranet Microsoft update service <strong>"location"</strong> Enabled  <a href="https ://wsus. guler. local:8530">https ://wsus. guler. local:8530</a><br>4) Automatic Updates detection frequency Enabled<br>5) Allow non-administrators to receive update notifications Enabled</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -93,7 +93,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate</pre>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Clientlerdeki browser(chrome,firefox vs) üzerinden <a href="https:// wsus. guler. local/iuident. cab" target="_blank" rel="noreferrer noopener">https://wsus. guler. local/iuident. cab</a>  adresine girerseniz .cab dosyasını indirebiliyor olmanız gerekmektedir. eğer indiremiyorsanız ağınızdaki güvenlik cihazının port ayarlarını yada GPO üzerindeki ayarları vs. kontrol ediniz.</p>
+<p>Clientlerdeki browser(chrome,firefox vs) üzerinden <a href="https :// wsus. guler. local/iuident. cab" target="_blank" rel="noreferrer noopener">https ://wsus. guler. local/iuident. cab</a>  adresine girerseniz .cab dosyasını indirebiliyor olmanız gerekmektedir. eğer indiremiyorsanız ağınızdaki güvenlik cihazının port ayarlarını yada GPO üzerindeki ayarları vs. kontrol ediniz.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
