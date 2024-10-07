@@ -23,12 +23,11 @@ Bloğumda şu ana kadar **400’den fazla özgün makale** yayınladım. Bu maka
 En son güncellemeleri almak için beni takip edebilirsiniz. Herhangi bir konuyla ilgili daha fazla yardıma ihtiyacınız olursa, aşağıdaki adreslerden benimle iletişime geçmekten çekinmeyin.
 
 Faruk GÜLER
-Knowledge Base for System Administrators and Decentralization Maximalists
 
 - Github: github.com/theguler0x
-- Docker-Hub: https://hub.docker.com/u/theguler0x
+- Docker-Hub: hub.docker.com/u/theguler0x
 - Blog: www.farukguler.com
-- LinkedIn: https://linkedin.com/in/farukgulerfdn
+- LinkedIn: linkedin.com/in/farukgulerfdn
 - E-Mail: fguler962 @gmail .com
 - X:
 - Telegram:
