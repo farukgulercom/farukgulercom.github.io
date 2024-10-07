@@ -7,7 +7,7 @@ author: theguler
 comments: true
 categories: [Hacking - Security]
 ---
-<!-- wp:image {"id":8236,"width":"504px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<!-- wp:image {"id":8236,"width":"404px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2023/08/web-shell.png?w=1024" alt="" class="wp-image-8236" style="width:504px;height:auto" /></figure>
 <!-- /wp:image -->
 
