@@ -43,7 +43,7 @@ Son olarak; **kaynak göstermenin bilim ve sanat etiğinin bir gereği olduğunu
 Paylaşımlarım tamamen açıktır. Kopyalanamsında ve Alıntı yapılmasında; **“Kaynak gösterilDİĞİ sürece”** hiçbir sakınca yoktur.
 
 
-***Saygılarımla**  
+**Saygılarımla**  
 ©2013 – 2024
 
 ## Yazara Kahve Ismarla ☕
