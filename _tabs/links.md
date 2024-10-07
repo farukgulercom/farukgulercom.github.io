@@ -61,15 +61,5 @@ https://koinmedya.com
 https://kriptopara.com  
 https://www.koinbox.net  
 https://coin-turk.com  
-https://token.unlocks.app (Kilit Açma Programı ve Tokenomics Verileri Takibi)  
-
-<pre class="wp-block-preformatted"><strong>Add-DnsServerPrimaryZone -Name gulmez.net -ReplicationScope "Domain" –PassThru</strong>
-
-#PS C:\Users\Administrator&gt; Add-DnsServerPrimaryZone -Name gulmez.net -ReplicationScope "domain" –PassThru
-
-#ZoneName                            ZoneType        IsAutoCreated   IsDsIntegrated  IsReverseLookupZone  IsSigned       
---------------  -------                 --------        -------------   --------------  -------------------  --------         ---------       -------------   --------------  
-<strong>gulmez.net</strong>                          Primary         False           True            False                False   
-
-PS C:\Users\Administrator&gt; </pre>
+https://token.unlocks.app (Kilit Açma Programı ve Tokenomics Verileri)  
 <!-- /wp:preformatted -->
