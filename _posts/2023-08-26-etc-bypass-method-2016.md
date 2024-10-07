@@ -2,6 +2,7 @@
 layout: post
 title: ETC Bypass Method 2016
 date: 2023-08-26 22:50
+tags: [Hacking]
 author: theguler
 comments: true
 categories: [Hacking - Security]

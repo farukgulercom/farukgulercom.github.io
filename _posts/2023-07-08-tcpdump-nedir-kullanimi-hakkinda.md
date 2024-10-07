@@ -2,6 +2,7 @@
 layout: post
 title: Tcpdump Nedir? - What is Tcpdump?
 date: 2023-07-08 15:18
+tags: [Linux OS]
 author: theguler
 comments: true
 categories: [Linux / Unix]

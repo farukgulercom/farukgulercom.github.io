@@ -2,6 +2,7 @@
 layout: post
 title: Installing Cockpit for CentOS 7 and later
 date: 2023-04-10 00:23
+tags: [Linux OS]
 author: theguler
 comments: true
 categories: [RedHat]

@@ -2,6 +2,7 @@
 layout: post
 title: Pyth Network (PYTH) Nedir? 
 date: 2024-02-29 22:08
+tags: [Tokens]
 author: theguler
 comments: true
 categories: [Blockchain]
