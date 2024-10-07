@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+
 ## Knowledge Base for System Administrators and Decentralization Maximalists
 
 **Ben Faruk GÜLER**, BT. sunucu ve sanallaştırma yöneticisiyim. 5 yıllık mesleki deneyime ve akreditasyona sahip, kendini işine adamış ve hevesli bir bilgi teknolojisi ve siber güvenlik araştırmacısıyım. Kripto paralar ve Blockchain üzerine araştırma ve çalışmalar yapıp, farklı teknolojiler ve hizmetler alanında blog yazıyorum. Bu bloğu 2021 yılından beri aktif şekilde sürdürüyorum.
