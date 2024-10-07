@@ -5,8 +5,8 @@ order: 2
 ---
 
 <!-- wp:preformatted -->
-https://archive.org (Wayback Machine)
-https://www.diffchecker.com (Comparing Tool)
+https://archive.org (Wayback Machine) 
+https://www.diffchecker.com (Comparing Tool) 
 
 https://dev.to
 https://tinywow.com/tools (Free Education Tools) -Photo -FDF .etc
@@ -63,5 +63,5 @@ https://www.koinbox.net
 https://coin-turk.com
 https://token.unlocks.app (Kilit Açma Programı ve Tokenomics Verileri Takibi)
 
-</pre>
+
 <!-- /wp:preformatted -->
