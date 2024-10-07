@@ -1,2 +1,0 @@
-Get-ADUser -Filter {Enabled -eq $true} -SearchBase "OU=Test,DC=jsga,DC=edu,DC=tr" -Properties DisplayName, SamAccountName, mail | 
-Select-Object DisplayName, SamAccountName, mail
