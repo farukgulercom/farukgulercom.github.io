@@ -28,6 +28,9 @@ url: ""
 github:
   username: faruk-guler # change to your GitHub username
 
+linkedin:
+  username:
+
 twitter:
   username: faruk-guler # change to your Twitter username
 
@@ -40,8 +43,8 @@ social:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/faruk-guler # change to your Twitter homepage
     # - https://www.facebook.com/username
-    - https://github.com/faruk-guler # change to your GitHub homepage
-    - https://www.linkedin.com/in/farukgulerfdn
+     - https://github.com/faruk-guler # change to your GitHub homepage
+     -  https://www.linkedin.com/in/farukgulerfdn
     
     # Uncomment below to add more social links
 
