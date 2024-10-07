@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Knowledge Base for System Administrators and Decentralization Maximalists
+## Knowledge Base for SysAdmin and Decentralization Maximalists
 Dün akşam bir kahve alıp kısa bir yürüyüşe çıktım ve kendim hakkında ne yazabilirim diye düşündüm. Kendiniz hakkında konuşabileceğiniz pek çok şey vardır, Ancak bir arkadaşınızın veya meslektaşınızın hakkınızda iyi şeyler söylemesi...
 işte o paha biçilmez.
 
