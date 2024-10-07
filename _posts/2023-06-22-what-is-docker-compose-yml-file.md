@@ -2,6 +2,7 @@
 layout: post
 title: What is docker-compose.yml File?
 date: 2023-06-22 20:11
+tags:[Docker]
 author: theguler
 comments: true
 categories: [Containerization]

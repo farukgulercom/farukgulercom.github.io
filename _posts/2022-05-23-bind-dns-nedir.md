@@ -2,7 +2,7 @@
 layout: post
 title: Bind 9 Nedir ? - What is Bind 9?
 date: 2022-05-23 09:18
-tags: dns
+tags: [dns]
 author: theguler
 comments: true
 categories: [Common]
