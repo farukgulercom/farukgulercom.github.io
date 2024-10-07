@@ -45,3 +45,27 @@ Paylaşımlarım tamamen açıktır. Kopyalanamsında ve Alıntı yapılmasında
 
 Saygılarımla  
 ©2013 – 2024
+
+Çalışmalarımı değerli buluyorsan bana bir kahve ısmarlayarak destek olabilirsin. 💕
+
+<!-- wp:preformatted -->
+
+<pre class="wp-block-preformatted">
+
+Bitcoin: 
+BTC: bc1ql0k82x4s926ppln04ct9vdflkya8lp822xcqru
+Other Network 
+DOGE: DD1tTphgSc793q2Cf8hhA2ZpZLkZ7g5psg
+RAVEN: RTQPNXZ9fBa6Y3WBJC47APvohkWqPrMvHE
+
+Binance BEP20
+ETH: 0x40B32A0C42dc2A13B5cc648f91189D3361f3DF00
+BNB: 0x40B32A0C42dc2A13B5cc648f91189D3361f3DF00
+FTM: 0x40B32A0C42dc2A13B5cc648f91189D3361f3DF00
+
+Tron TRC20
+USDT: TKvNN47UssyTQt9XZA4vuEppYiue39oQup
+TRX: TKvNN47UssyTQt9XZA4vuEppYiue39oQup
+
+</pre>
+<!-- /wp:preformatted -->
