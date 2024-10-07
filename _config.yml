@@ -26,20 +26,20 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: theguler0x # change to your GitHub username
+  username: faruk-guler # change to your GitHub username
 
 twitter:
-  username: theguler0x # change to your Twitter username
+  username: faruk-guler # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: theguler0x
-  email: https://theguler0x.github.io/about # change to your email address
+  name: faruk-guler
+  email: https://faruk-guler.github.io/about # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/theguler0x # change to your Twitter homepage
-    - https://github.com/theguler0x # change to your GitHub homepage
+    - https://twitter.com/faruk-guler # change to your Twitter homepage
+    - https://github.com/faruk-guler # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
