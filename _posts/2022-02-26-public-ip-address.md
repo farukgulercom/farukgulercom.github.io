@@ -2,6 +2,7 @@
 layout: post
 title: About Public IP Address
 date: 2022-02-26 19:01
+tags: [Network]
 author: theguler
 comments: true
 categories: [Network]

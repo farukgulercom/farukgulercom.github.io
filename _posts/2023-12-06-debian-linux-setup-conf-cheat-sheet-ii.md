@@ -2,6 +2,7 @@
 layout: post
 title: Debian Linux Setup/Conf. Cheat Sheet II
 date: 2023-12-06 20:54
+tags: [Debian]
 author: theguler
 comments: true
 categories: [Debian]
