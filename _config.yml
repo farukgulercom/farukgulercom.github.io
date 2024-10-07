@@ -39,9 +39,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/faruk-guler # change to your Twitter homepage
+    # - https://www.facebook.com/username
     - https://github.com/faruk-guler # change to your GitHub homepage
     - https://www.linkedin.com/in/username
-    # - https://www.facebook.com/username
+    
     # Uncomment below to add more social links
 
 # Site Verification Settings
