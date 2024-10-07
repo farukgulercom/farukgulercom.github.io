@@ -55,7 +55,8 @@ Paylaşımlarım tamamen açıktır. Kopyalanamsında ve Alıntı yapılmasında
 
 **Bitcoin:** 
 BTC: bc1ql0k82x4s926ppln04ct9vdflkya8lp822xcqru
-Other Network 
+
+** Other Network**  
 DOGE: DD1tTphgSc793q2Cf8hhA2ZpZLkZ7g5psg
 RAVEN: RTQPNXZ9fBa6Y3WBJC47APvohkWqPrMvHE
 
