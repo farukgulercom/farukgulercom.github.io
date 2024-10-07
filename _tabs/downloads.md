@@ -8,11 +8,11 @@ order: 2
 
 <pre class="wp-block-preformatted">
 
-Microsoft Windows Server:  
+**Microsoft Windows Server:***  
 Windows Server 2012 R2 (desteği bitti)  
 https://drive.google.com/file/d/15z0GlKEXtC7QMXmOUapGCuWoWWRytJVX/view  
 
-Windows Server 2019  
+****Windows Server 2019****  
 https://drive.google.com/file/d/16kmjiiWPvVaAVPrYaQX85aeJC_3N4J1V/view  
 
 Windows Client:  
