@@ -6,7 +6,7 @@ order: 2
 
 <!-- wp:preformatted -->
 
-<pre class="wp-block-preformatted"><strong>
+<pre class="wp-block-preformatted">
 
 Microsoft Windows Server:  
 Windows Server 2012 R2 (desteği bitti)  
@@ -69,6 +69,5 @@ https://www.fortinet.com/support/product-downloads
 pfSense Latest Stable Version (Community Edition)  
 https://www.pfsense.org/download/  
 
-</pre>
 
 <!-- /wp:preformatted -->
