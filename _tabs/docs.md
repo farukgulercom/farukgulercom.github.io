@@ -1,5 +1,5 @@
 ---
 layout: page
-icon: fas fa-person-chalkboard
+icon: fas fa-file
 order: 2
 ---
