@@ -46,6 +46,7 @@ Paylaşımlarım tamamen açıktır. Kopyalanamsında ve Alıntı yapılmasında
 Saygılarımla  
 ©2013 – 2024
 
+## Yazara Kahve Ismarla
 Çalışmalarımı değerli buluyorsan bana bir kahve ısmarlayarak destek olabilirsin. 💕
 
 <!-- wp:preformatted -->
@@ -64,7 +65,7 @@ BNB: 0x40B32A0C42dc2A13B5cc648f91189D3361f3DF00
 FTM: 0x40B32A0C42dc2A13B5cc648f91189D3361f3DF00
 
 Tron TRC20
-USDT: TKvNN47UssyTQt9XZA4vuEppYiue39oQup
+USDT: TKvNN47UssyTQt9XZA4vuEppYiue39oQup xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 TRX: TKvNN47UssyTQt9XZA4vuEppYiue39oQup
 
 </pre>
