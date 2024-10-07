@@ -2,7 +2,6 @@
 layout: post
 title: Transfer of WSUS updates to Private Networks
 date: 2021-12-20 13:41
-tags: [Network]
 author: theguler
 comments: true
 categories: [Microsoft System Center Family]
