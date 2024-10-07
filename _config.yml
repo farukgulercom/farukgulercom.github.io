@@ -229,3 +229,4 @@ jekyll-archives:
     category: /categories/:name/
 
 permalink: pretty
+permalink: /:title/
