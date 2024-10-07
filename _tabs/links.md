@@ -13,8 +13,8 @@ https://tinywow.com/tools (Free Education Tools) - Photo - FDF .etc
 https://www.virustotal.com  
 https://www.hybrid-analysis.com (Zararlı yazılım analiz ve tehdit istihbaratı)  
 https://www.acunetix.com  
-https://www.vinchin.com/  
-https://www.veeam.com/  
+https://www.vinchin.com  
+https://www.veeam.com  
 https://netsparker.com  
 https://www.iana.org/assignments/service-names-port-numbers (port ara)  
 https://www.ripe.net (Network Coordination Centre)  
@@ -61,5 +61,5 @@ https://koinmedya.com
 https://kriptopara.com  
 https://www.koinbox.net  
 https://coin-turk.com  
-https://token.unlocks.app (Kilit Açma Programı ve Tokenomics Verileri Takibi)  
+https://token.unlocks.app (Kilit Açma Programı ve Tokenomics)  
 <!-- /wp:preformatted -->
