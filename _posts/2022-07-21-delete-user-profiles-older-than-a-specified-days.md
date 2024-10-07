@@ -2,6 +2,7 @@
 layout: post
 title: Delete User Profiles Older Than a Specified Number Days GPO
 date: 2022-07-21 23:25
+tags: [AD]
 author: theguler
 comments: true
 categories: [Windows Group Policy GPO]
