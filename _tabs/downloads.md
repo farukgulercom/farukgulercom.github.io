@@ -69,6 +69,6 @@ https://www.fortinet.com/support/product-downloads
 pfSense Latest Stable Version (Community Edition)  
 https://www.pfsense.org/download/  
 
-&gt; </pre>
+</pre>
 
 <!-- /wp:preformatted -->
