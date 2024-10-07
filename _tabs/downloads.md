@@ -1,5 +1,5 @@
 ---
 layout: page
-icon: fa-regular fa-download
+icon: fa fa-download
 order: 2
 ---
