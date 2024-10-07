@@ -19,7 +19,7 @@ Bloğumda şu ana kadar **400’den fazla özgün makale** yayınladım. Bu maka
 - Networking
 - Active Directory
 - Open Source Projeler
-- Sanallaştırma ve Container Teknolojileri
+- Sanallaştırma ve Container Teknolojileri vb.
 
 
 ## İletişim
