@@ -4,7 +4,7 @@ title: Kerberos Nedir? - What is Kerberos?
 date: 2022-05-10 20:08
 author: theguler
 comments: true
-categories: [Common]
+categories: [Public]
 ---
 <!-- wp:image {"id":3054,"width":496,"height":310,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/05/kerberos.png?w=574" alt="" class="wp-image-3054" width="496" height="310" /></figure>
