@@ -1,93 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>404 Page Not Found</title>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <style>
-    html, body {
-      height: 100%;
-      margin: 0;
-      background: url("https://wallpapercave.com/wp/6SLzBEY.jpg") no-repeat center center; /* Tek resim olacak şekilde ayarlandı */
-      background-size: cover; /* Resim ekranı tamamen kaplar */
-      overflow: hidden;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-    }
-
-    .text h1 {
-      color: #011718;
-      margin-top: -200px;
-      font-size: 15em;
-      text-align: center;
-      text-shadow: -5px 5px 0px rgba(0, 0, 0, 0.7), -10px 10px 0px rgba(0, 0, 0, 0.4), -15px 15px 0px rgba(0, 0, 0, 0.2);
-      font-family: monospace;
-      font-weight: bold;
-    }
-
-    .text h2 {
-      color: black;
-      font-size: 5em;
-      text-shadow: -5px 5px 0px rgba(0, 0, 0, 0.7);
-      text-align: center;
-      margin-top: -150px;
-      font-family: monospace;
-      font-weight: bold;
-    }
-
-    .text h3 {
-      color: white;
-      margin-left: 30px;
-      font-size: 2em;
-      text-shadow: -5px 5px 0px rgba(0, 0, 0, 0.7);
-      margin-top: -40px;
-      font-family: monospace;
-      font-weight: bold;
-    }
-
-    .torch {
-      width: 200px;
-      height: 200px;
-      box-shadow: 0 0 0 9999em #000000f7;
-      opacity: 1;
-      border-radius: 50%;
-      position: fixed;
-      background: rgba(0, 0, 0, 0.3);
-    }
-
-    .torch:after {
-      content: '';
-      display: block;
-      border-radius: 50%;
-      width: 100%;
-      height: 100%;
-      top: 0px;
-      left: 0px;
-      position: absolute;
-      box-shadow: inset 0 0 40px 2px #000, 0 0 20px 4px rgba(13, 13, 10, 0.2);  
-    }
-  </style>
-</head>
-<body>
-
-<div class="text">
-  <h1>404</h1>
-  <h2>Uh, Ohh</h2>
-  <h3>Sorry, we can't find what you're looking for!</h3>
+<div class="wrap">
+ <div class="container__inner">
+  <h1 class="fourofour">404</h1>
+  <img class="astronaut" src="https://www.kennedyspacecenter.com/-/media/DNC/KSCVC/Global-Images/spaceman.ashx?h=263&w=252&la=en&hash=2FB54795818BD9CF32971DFA04CF41F420B6F63C" alt="">
+  <div class="helper">
+   <h2>Whoa! How did you get out here?</h2>
+   <h3><a href="https://dribbble.com/ianhazelton" target="_blank">Go back to earth</a></h3>
+  </div>
+ </div>
 </div>
-<div class="torch"></div>
-
-<script>
-  $(document).mousemove(function (event) {
-    $('.torch').css({
-      'top': event.pageY,
-      'left': event.pageX
-    });
-  });
-</script>
-
-</body>
-</html>
