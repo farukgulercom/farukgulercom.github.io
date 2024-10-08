@@ -4,7 +4,7 @@ title: What is Bootx64 Efi Shell
 date: 2022-03-19 12:59
 author: theguler
 comments: true
-categories: [Common]
+categories: [Public]
 ---
 <!-- wp:image {"id":2319,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2022/03/efishell.jpg?w=523" alt="" class="wp-image-2319" /></figure>
