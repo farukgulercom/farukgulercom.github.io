@@ -4,7 +4,7 @@ title: Register Key Management Service(KMS) Add In DNS Server
 date: 2023-03-31 23:50
 author: theguler
 comments: true
-categories: [Common]
+categories: [Public]
 ---
 <!-- wp:image {"id":6355,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://theguler.wordpress.com/wp-content/uploads/2023/03/kms_add_dns.png?w=993" alt="" class="wp-image-6355" /></figure>
