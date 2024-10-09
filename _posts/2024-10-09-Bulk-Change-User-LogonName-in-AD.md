@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bulk Change User LogonName in AD
+title: Bulk Change AD User Login Name with powershell
 date: 2024-10-09 10:57
 author: theguler
 comments: true
