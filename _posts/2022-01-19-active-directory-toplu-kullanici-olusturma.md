@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Active Directory Powershell Toplu Kullanıcı Oluşturma ve import
+title: AD Toplu Kullanıcı Oluşturma-AD Bulk
 date: 2022-01-19 16:44
 author: theguler
 comments: true
@@ -31,7 +31,7 @@ categories: [PowerShell]
 <!-- /wp:paragraph -->
 
 <!-- wp:preformatted -->
-<pre class="wp-block-preformatted">Import-Csv -Path 'C:\eklenecek\Muhasebe_uyeleri.csv' |<br><br> foreach {<br><br>   $NewUserParams = @{<br>     Displayname           = $_.displayname    # ad+soyad görünen Displayname<br>     Name                  = $_.name       # ad+soyad - name + surname<br>     department            = $_.department # görevi<br>     division              = $_.division   # birimi, unit of job<br>     givenname             = $_.givenname  # ad<br>     surname               = $_.surname    # soyad<br>     SamAccountName        = $_.SAM        # kimlik-identity<br>     UserPrincipalName     = $_.SAM+"@guler.com" # user logon name<br>     path                  = 'OU=test,DC=guler,DC=com' #eklenecegi OU<br>     AccountPassword       =  ConvertTo-SecureString 'Pass9*x+' -AsPlainText -Force #<br>     Enabled               = $true     # hesap açılışta aktif mi? evet-hayır<br>     ChangePasswordAtLogon = $true     # Next logon? true-false<br>     PasswordNeverExpires  = $false    # şifre asla sona ermesin? true-false<br>     Server                = 'guler.com'<br>    }<br><br>   New-ADUser @NewUserParams<br> }</pre>
+<pre class="wp-block-preformatted">Import-Csv -Path 'C:\eklenecek\Muhasebe_uyeleri.csv' |<br><br> foreach {<br><br>   $NewUserParams = @{<br>     Displayname           = $_.displayname    # ad+soyad görünen Displayname<br>     Name                  = $_.name       # ad+soyad - name + surname<br>     department            = $_.department # görevi<br>     division              = $_.division   # birimi, unit of job<br>     givenname             = $_.givenname  # ad<br>     surname               = $_.surname    # soyad<br>     employeeID            = $_.employeeID  # personID<br>     SamAccountName        = $_.SAM        # kimlik-identity<br>     UserPrincipalName     = $_.SAM+"@guler.com" # user logon name<br>     path                  = 'OU=test,DC=guler,DC=com' #eklenecegi OU<br>     AccountPassword       =  ConvertTo-SecureString 'Pass9*x+' -AsPlainText -Force #<br>     Enabled               = $true     # hesap açılışta aktif mi? evet-hayır<br>     ChangePasswordAtLogon = $true     # Next logon? true-false<br>     PasswordNeverExpires  = $false    # şifre asla sona ermesin? true-false<br>     Server                = 'guler.com'<br>    }<br><br>   New-ADUser @NewUserParams<br> }</pre>
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":1103,"sizeSlug":"large","linkDestination":"none"} -->
