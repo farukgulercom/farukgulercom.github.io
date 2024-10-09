@@ -7,7 +7,7 @@ comments: true
 categories: [Public]
 ---
 <!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="" /></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/faruk-guler/faruk-guler.github.io/refs/heads/main/assets/post_img/banana/powershell-4-sdn.jpg" alt="" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:preformatted -->
