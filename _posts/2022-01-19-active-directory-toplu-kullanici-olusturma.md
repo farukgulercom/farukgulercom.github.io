@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AD Toplu Kullanıcı Oluşturma-Import Powershell
+title: AD Toplu Kullanıcı Oluşturma-AD Bulk
 date: 2022-01-19 16:44
 author: theguler
 comments: true
