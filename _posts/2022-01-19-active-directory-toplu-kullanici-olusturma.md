@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Active Directory Powershell Toplu Kullanıcı Oluşturma ve import
+title: AD Toplu Kullanıcı Oluşturma-Import Powershell
 date: 2022-01-19 16:44
 author: theguler
 comments: true
